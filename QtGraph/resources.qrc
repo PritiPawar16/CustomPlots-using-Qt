@@ -1,0 +1,17 @@
+<RCC>
+    <qresource prefix="/">
+        <file>images/connect.png</file>
+        <file>images/disconnect.png</file>
+        <file>images/settings-icon.png</file>
+        <file>images/greenoff.png</file>
+        <file>images/greenon.png</file>
+        <file>images/redoff.png</file>
+        <file>images/redon.png</file>
+        <file>images/exit.png</file>
+        <file>images/graph4.jpg</file>
+        <file>images/graphimage.jpg</file>
+        <file>images/imagesblue.png</file>
+        <file>DAQ_Graph2.ico</file>
+    </qresource>
+    <qresource prefix="/files"/>
+</RCC>
